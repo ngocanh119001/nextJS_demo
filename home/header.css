@@ -1,0 +1,9 @@
+.nav-item a{
+    color: #222222;
+    text-align: center;
+}
+.carousel-caption {
+    display: flex; /* Make the carousel caption a flex container */
+    /*justify-content: center; !* Horizontally center the content within the carousel caption *!*/
+    align-items: center; /* Vertically center the content within the carousel caption (optional) */
+}

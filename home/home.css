@@ -1,0 +1,36 @@
+.card_shadow {
+    width: 190px;
+    height: 254px;
+    background: white;
+    border-radius: 10px;
+    transition: border-radius 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+hr {
+    border: 2px solid #75356A; /* Set border style and color */
+    width: 10%; /* Adjust width as needed */
+    margin: 2% auto; /* Add margins for spacing */
+
+}
+.row-qc {
+    display: flex; /* Make the row a Flexbox container */
+    flex-wrap: wrap; /* Allow elements to wrap onto multiple lines */
+}
+h1{
+    text-align: center;
+    margin-top: 3%;
+}
+
+.card:hover {
+    background-color: lightgray; /* Thay đổi màu nền khi hover */
+}
+
+footer svg{
+    width: 3rem;
+    height: 3rem;
+}
