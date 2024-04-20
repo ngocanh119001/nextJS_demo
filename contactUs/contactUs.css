@@ -1,0 +1,754 @@
+.footer-child,
+.footer-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  width: 1440px;
+  height: 393px;
+}
+
+.footer-item {
+  top: 254px;
+  left: 1671.9px;
+  filter: blur(150px);
+  border-radius: 50%;
+  background-color: #d2d2d2;
+  width: 478.9px;
+  height: 496.9px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  opacity: 0.8;
+}
+
+.koson-technology3 {
+  text-decoration: underline;
+}
+
+.koson-technology2 {
+  color: inherit;
+}
+
+.powered-by-koson-technology1 {
+  margin: 0;
+}
+
+.powered-by-koson-technology-container1 {
+  position: absolute;
+  top: 335.6px;
+  left: 64px;
+  line-height: 18px;
+  text-align: center;
+  display: inline-block;
+  width: 1257.9px;
+  height: 33.8px;
+}
+
+.more1 {
+  position: relative;
+  line-height: 120%;
+}
+
+.blank-line5,
+.bookmark1,
+.featured-locations1 {
+  margin: 0;
+}
+
+.bookmark-featured-locations-container1 {
+  position: relative;
+  font-size: 16px; /* Thay thế --font-size-base bằng giá trị cụ thể */
+  line-height: 140%;
+  color: #000000; /* Thay thế --black-black-500 bằng mã màu đen (#000000) */
+}
+
+.frame {
+  position: absolute;
+  top: 0;
+  left: 852px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px; /* Thay thế --gap-2xl bằng giá trị cụ thể */
+}
+
+.group-child,
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 38.6px;
+  left: 89px;
+  border-radius: 6px; /* Thay thế --br-6xs bằng giá trị cụ thể */
+  background-color: #fff0f5; /* Thay thế --color-papayawhip bằng mã màu thích hợp (#fff0f5) */
+  width: 84px;
+  height: 11.3px;
+}
+
+.group-inner,
+.group-item {
+  top: 0;
+  left: 163px;
+  width: 20px;
+}
+
+.group-inner {
+  top: 38.6px;
+  left: 0;
+}
+
+.jian-travel1 {
+  position: absolute;
+  top: 6.6px;
+  left: 8px;
+  line-height: 124.5%;
+  font-weight: 800;
+  display: inline-block;
+  width: 166px;
+  height: 37.6px;
+  font-size: 24px;
+}
+
+.company-desc,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 183px;
+  height: 49.8px;
+}
+
+.company-desc {
+  top: 106.2px;
+  font-size: 16px; /* Thay thế --font-size-13xl bằng giá trị cụ thể */
+  color: #000000; /* Thay thế --color-black bằng mã màu đen (#000000) */
+}
+
+.dbe-7c0a-4747-8ab8-fce5031ac30-icon2 {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  width: 113px;
+  height: 106.2px;
+  object-fit: cover;
+}
+
+.navigation1 {
+  position: relative;
+  line-height: 120%;
+}
+
+.about-us3,
+.blank-line6,
+.blank-line7,
+.blog1,
+.terms-of-use1 {
+  margin: 0;
+}
+
+.about-us-blog-container1 {
+  position: relative;
+  font-size: 16px; /* Thay thế --font-size-base bằng giá trị cụ thể */
+  line-height: 140%;
+  color: #000000; /* Thay thế --black-black-500 bằng mã màu đen (#000000) */
+}
+
+.navigation-parent {
+  position: absolute;
+  top: 0;
+  left: 386px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px; /* Thay thế --gap-2xl bằng giá trị cụ thể */
+}
+
+.help1 {
+  position: relative;
+  line-height: 120%;
+  font-size: 20px;
+}
+
+.blank-line8,
+.faqhelp1,
+.privacy-policy1 {
+  margin: 0;
+}
+
+.faqhelp-privacy-policy-container1 {
+  position: relative;
+  line-height: 140%;
+  color: #000000; /* Thay thế --black-black-500 bằng mã màu đen (#000000) */
+}
+
+.frame1 {
+  position: absolute;
+  top: 0;
+  left: 613px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px; /* Thay thế --gap-2xl bằng giá trị cụ thể */
+  font-size: 16px; /* Thay thế --font-size-base bằng giá trị cụ thể */
+}
+
+.frame-parent7 {
+  position: absolute;
+  top: 79px;
+  left: 69px;
+  width: 999px;
+  height: 175px;
+  font-size: 20px; /* Thay thế --font-size-lg bằng giá trị cụ thể */
+  color: #ff0000; /* Thay thế --red-red-500 bằng mã màu đỏ (#ff0000) */
+}
+
+.discover-more1 {
+  position: absolute;
+  top: 133px;
+  left: 0;
+  letter-spacing: 0.01em;
+  line-height: 124.5%;
+  font-weight: 500;
+  display: inline-block;
+  width: 185px;
+  height: 31px;
+}
+
+.image-31-icon1 {
+  position: absolute;
+  top: 79px;
+  left: 89px;
+  width: 50px;
+  height: 44.8px;
+  object-fit: cover;
+}
+
+.image-32-icon1,
+.image-33-icon1,
+.image-34-icon1 {
+  position: absolute;
+  top: 11.3px;
+  left: 79px;
+  width: 69px;
+  height: 51.8px;
+  object-fit: cover;
+}
+
+.image-33-icon1,
+.image-34-icon1 {
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 75.4px;
+}
+
+.image-34-icon1 {
+  top: 77px;
+  left: 14px;
+  width: 48px;
+  height: 47.3px;
+}
+
+.group-wrapper,
+.image-31-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 148px;
+  height: 124.3px;
+}
+
+.group-wrapper {
+  left: 13px;
+}
+
+.discover-more-parent {
+  position: absolute;
+  top: 79px;
+  left: 1199px;
+  width: 185px;
+  height: 164px;
+  font-size: 24px; /* Thay thế --font-size-5xl bằng giá trị cụ thể */
+  color: #000000; /* Thay thế --text-clr bằng mã màu đen (#000000) */
+  font-family: 'Poppins', sans-serif; /* Thay thế --font-poppins bằng font-family cụ thể */
+}
+
+.footer {
+  position: absolute;
+  top: 1109px;
+  left: 1px;
+  width: 1671.9px;
+  height: 750.9px;
+  font-size: 12px; /* Thay thế --font-size-sm bằng giá trị cụ thể */
+}
+
+.dbe-7c0a-4747-8ab8-fce5031ac30-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 104px;
+  height: 106px;
+  object-fit: cover;
+}
+.link-travel2 {
+  cursor: pointer;
+}
+.link-blog1,
+.link-pages1,
+.link-travel2,
+.link-travel3 {
+  position: relative;
+  line-height: 20px;
+}
+.link-blog1,
+.link-pages1 {
+  cursor: pointer;
+}
+.contact1 {
+  position: relative;
+  line-height: 20px;
+  color: #a862ff;
+}
+.link-travel-group {
+  position: absolute;
+  top: 41px;
+  left: calc(50% - 278.5px);
+  width: 593px;
+  height: 23px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 56px;
+}
+.header1 {
+  position: absolute;
+  top: 12px;
+  left: 10px;
+  width: 1383px;
+  height: 106px;
+}
+.tdesignuser1,
+.vector-icon1 {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 93.75%;
+  width: 20.83%;
+  top: 6.25%;
+  right: 79.17%;
+  bottom: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.tdesignuser1 {
+  top: 0;
+  width: 30px;
+  height: 30px;
+}
+.tdesignuser-group,
+.vani1 {
+  position: absolute;
+  left: 54px;
+}
+.vani1 {
+  top: 8px;
+  line-height: 14px;
+  font-weight: 500;
+}
+.tdesignuser-group {
+  top: 2px;
+  width: 90px;
+  height: 30px;
+  cursor: pointer;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  left: 54px;
+  border-radius: 50%;
+  width: 35px;
+  height: 32px;
+  object-fit: cover;
+}
+.vector-group {
+  position: absolute;
+  height: 22.38%;
+  width: 10%;
+  top: 33.57%;
+  right: 3.96%;
+  bottom: 44.06%;
+  left: 86.04%;
+  text-align: center;
+  color: #000;
+}
+
+.get-in-touch-child,
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff; 
+}
+
+.header {
+  width: 1440px;
+  height: 143px;
+  overflow: hidden;
+  color: #000;
+  font-family: Arial, sans-serif;
+}
+
+.get-in-touch-child {
+  box-shadow: 2px 10px 28px rgba(75, 0, 129, 0.12);
+  border-radius: 10px;
+  width: 1338px;
+  height: 812px;
+}
+
+.contact-us3 {
+  position: absolute;
+  top: 0;   
+  left: 0;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 226.8px;
+  height: 36.9px;
+}
+
+.group-child1 {
+  position: absolute;
+  top: 44.5px;
+  left: 0;
+  border-radius: 2px;
+  background-color: #8a2be2; 
+  width: 225.3px;
+  height: 2.5px;
+}
+
+.contact-us-parent {
+  position: absolute;
+  top: 0;
+  left: 471.8px;
+  width: 226.8px;
+  height: 47.1px;
+  font-size: 24px; 
+  color: #8a2be2; 
+}
+
+.leave-us-a {
+  position: absolute;
+  top: 110.7px;
+  left: 20px;
+  font-size: 20px; 
+  font-weight: 550;
+  display: inline-block;
+  width: 271.8px;
+  height: 30.5px;
+}
+
+.name-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4px; 
+  border: 1.2px solid #c0c0c0; 
+  box-sizing: border-box;
+  width: 594.4px;
+  height: 63.6px;
+}
+
+.name-item {
+  position: absolute;
+  top: 0;
+  left: 14.1px;
+  background-color: #fff;
+  width: 78.9px;
+  height: 29.3px;
+}
+
+.first-name-last-name,
+.name1 {
+  position: absolute;
+  top: 2.6px;
+  left: 32.5px;
+  display: inline-block;
+  width: 63.4px;
+  height: 24.2px;
+  opacity: 0.8;
+}
+
+.first-name-last-name {
+  top: 40.7px;
+  left: 19.7px;
+  color: #f8f9fa;
+}
+
+.email-child,
+.name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 594.4px;
+}
+.name {
+  height: 77.6px;
+  color: #000;
+}
+
+.email-child {
+  border-radius: 4px; 
+  border: 1.2px solid #c0c0c0; 
+  box-sizing: border-box;
+  height: 63.6px;
+}
+
+.email-address {
+  position: absolute;
+  top: 21.7px;
+  left: 19.7px;
+  display: inline-block;
+  width: 150.7px;
+  height: 24.2px;
+  opacity: 0.8;
+}
+.button-child,
+.email {
+  position: absolute;
+  top: 108.1px;
+  left: 0;
+  width: 594.4px;
+  height: 63.6px;
+}
+.button-child {
+  top: 0;
+  border-radius: 10px;
+  background-color: #9E96FD ;
+  font-size: 20px;
+  font-weight: 500;
+  color: #f8f9fa;
+  border-color: #9E96FD;
+  left: 20px;
+}
+.send {
+  position: absolute;
+  top: 20.4px;
+  left: 263.4px;
+  display: inline-block;
+  width: 64.8px;
+  height: 28px;
+}
+.button2,
+.message-child {
+  position: absolute;
+  left: 0;
+  width: 594.4px;
+  margin-top: 30px;
+}
+
+.message-child {
+  top: 0;
+  border-radius: 4px; 
+  border: 1.2px solid #c0c0c0;
+  box-sizing: border-box;
+  height: 174.4px;
+}
+
+.your-message {
+  position: absolute;
+  top: 21.7px;
+  left: 19.7px;
+  display: inline-block;
+  width: 152.1px;
+  height: 24.2px;
+  opacity: 0.8;
+}
+.message,
+.name-parent {
+  position: absolute;
+  top: 202.3px;
+  left: 0;
+  width: 594.4px;
+  height: 174.4px;
+  gap: 40px;
+}
+.name-parent {
+  top: 168px;
+  height: 491.3px;
+  color: #333;
+}
+.jian-travel2,
+.tran-quang-khai {
+  margin: 0;
+}
+.div5,
+.jian-travel-71-container {
+  position: absolute;
+  display: inline-block;
+}
+.jian-travel-71-container {
+  top: 0;
+  left: 47.9px;
+  line-height: 22px;
+  width: 442.2px;
+  height: 84px;
+}
+.div5 {
+  top: 3.8px;
+  left: 0;
+  font-size: 18px;
+  font-weight: 300;
+  width: 28.2px;
+  height: 30.5px;
+}
+.jian-travel-71-tran-quang-khai-parent {
+  position: absolute;
+  top: 0;
+  left: 5.7px;
+  width: 490.1px;
+  height: 84px;
+}
+.span {
+  text-decoration: underline;
+}
+.a {
+  color: inherit;
+}
+.p {
+  margin: 0;
+}
+.div6 {
+  top: 0.7px;
+  left: 53.5px;
+  display: inline-block;
+  width: 183.1px;
+  height: 26px;
+}
+.div6,
+.div7,
+.parent {
+  position: absolute;
+}
+.div7 {
+  top: 0;
+  left: 33.8px;
+  font-size: 18px;
+  font-weight: 300;
+  display: inline-block;
+  width: 13.7px;
+  height: 33.8px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.parent {
+  top: 59.6px;
+  left: 0;
+  width: 236.6px;
+  height: 26.7px;
+}
+.jiantravelgmailcom {
+  position: absolute;
+  top: 2.5px;
+  left: 47.9px;
+  display: inline-block;
+  width: 226.8px;
+  height: 24.2px;
+}
+.div8,
+.jiantravelgmailcom-parent {
+  position: absolute;
+  left: 0;
+  height: 30.5px;
+}
+.div8 {
+  top: 0;
+  font-size: 18px;
+  font-weight: 300;
+  display: inline-block;
+  width: 28.2px;
+}
+.jiantravelgmailcom-parent {
+  top: 99.1px;
+  width: 274.6px;
+}
+.group-container,
+.group-parent {
+  position: absolute;
+  top: 182px;
+  left: 667.5px;
+  width: 495.9px;
+  height: 129.6px;
+}
+.group-parent {
+  top: 76.4px;
+  left: 84.5px;
+  width: 1163.3px;
+  height: 659.3px;
+}
+.map-maker-th-quang-50400-q {
+  position: absolute;
+  top: 416px;
+  left: 800px;
+  width: 472px;
+  height: 320px;
+  object-fit: cover;
+}
+
+.get-in-touch {
+  position: absolute;
+  top: 199px;
+  left: 47px;
+  width: 1338px;
+  height: 812px;
+  color: #333; 
+  font-family: 'Inter', sans-serif; 
+}
+
+.contact-us2 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1502px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px; 
+  color: #555; 
+  font-family: 'Jakarta Sans', sans-serif; 
+}
+.map {
+  height: 350px;
+  width: 180%;
+  margin-top: 50px;
+  left: 50px;
+}
+footer {
+  position: absolute;
+  padding-bottom: 0;
+  width: 100%;
+  margin-top: 100px;
+  background: linear-gradient(to bottom, transparent, rgb(240, 210, 240));
+  z-index: -1;
+}
+.name-parent input[type="text"],
+  .name-parent input[type="email"],
+  .name-parent textarea {
+    width: 100%;
+    padding: 10px;
+    height: 65px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin: 20px;
+    border-radius: 6px;
+  }
+  .name-parent textarea {
+    height: 170px;
+    resize: vertical;
+  }
+  .contact-form button:hover {
+    background-color: #0056b3;
+  }
