@@ -1,0 +1,17 @@
+img{
+    border-radius: 10px;
+}
+#map {
+    height: 400px; /* Đặt chiều cao của bản đồ */
+    width: 100%; /* Đặt chiều rộng của bản đồ */
+}
+h1{
+    text-align: center;
+    margin-top: 3%;
+}
+.hr-qc {
+    border: 2px solid #75356A; /* Set border style and color */
+    width: 10%; /* Adjust width as needed */
+    margin: 2% auto; /* Add margins for spacing */
+
+}

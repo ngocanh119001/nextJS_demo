@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    margin-top: 3%;
+}
+button:hover {
+    background-color: #801C90; /* Màu nền khi di chuột qua */
+}
+button {
+    background-color: #9C27B0;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s ease; /* Hiệu ứng chuyển đổi màu nền khi di chuột qua */
+}

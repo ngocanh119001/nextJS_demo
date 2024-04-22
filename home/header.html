@@ -9,38 +9,24 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
           integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="header.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 </head>
 <body>
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#"><img src="logo_Jian.png" height="106" width="104"/></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
-                aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarText">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="text-align: center; display: inline-flex">
-                <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Categories</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Bookmark</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">About Us
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Blog</a>
-                </li>
-            </ul>
-            <span class="navbar-text">
+<nav class="navbar navbar-expand-lg navbar-light bg-white py-3 shadow-sm">
+    <button type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbars"
+            aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div id="navbarContent" class="collapse navbar-collapse">
+        <img src="logo_Jian.png" height="106" width="104"/>
+        <ul class="navbar-nav mx-auto">
+            <li class="nav-item"><a href="" class="nav-link font-weight-bold text-uppercase">Home</a></li>
+            <li class="nav-item"><a href="" class="nav-link font-weight-bold text-uppercase">Bookmark</a></li>
+            <li class="nav-item"><a href="" class="nav-link font-weight-bold text-uppercase">About Us</a></li>
+            <li class="nav-item"><a href="" class="nav-link font-weight-bold text-uppercase">Contact</a></li>
+        </ul>
+        <span class="navbar-text">
                 <spanp>
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
                          class="bi bi-globe" viewBox="0 0 16 16">
@@ -58,19 +44,12 @@
                     </b>
                 </span>
       </span>
-        </div>
+
     </div>
 </nav>
-<!--carousel-->
+
 <div id="carouselExampleCaptions" class="carousel slide">
-<!--    <div class="carousel-indicators">-->
-<!--        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"-->
-<!--                aria-current="true" aria-label="Slide 1"></button>-->
-<!--        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"-->
-<!--                aria-label="Slide 2"></button>-->
-<!--        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"-->
-<!--                aria-label="Slide 3"></button>-->
-<!--    </div>-->
+
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img src="phong-canh-dep-huu-tinh-o-viet-nam-7%201.png" class="d-block w-100" height="700" alt="...">
@@ -80,30 +59,34 @@
                 <p>Welcome to Jian Travel, your gateway to exploring all of Vietnam! From the vibrant cities to serene
                     landscapes, let us craft your personalized journey through this captivating country.</p>
                 <div style="margin-top: 10%">
-                    <button class="btn btn-online m-1 w-20" style="background-color: #9B64E2; border-radius: 10%">Places
+                    <button class="btn btn-online m-1 w-20" style="background-color: #9B64E2; border-radius: 15px">
+                        Places
                     </button>
-                    <button type="button" class="btn btn-light">Foods</button>
-                    <button type="button" class="btn btn-light">Restaurant</button>
-                    <button type="button" class="btn btn-light">Hotel</button>
+                    <button type="button" class="btn btn-light" style=" border-radius: 15px">Foods</button>
+                    <button type="button" class="btn btn-light" style=" border-radius: 15px">Restaurant</button>
+                    <button type="button" class="btn btn-light" style=" border-radius: 15px">Hotel</button>
                 </div>
 
                 <div style="margin-top: 5%">
-                    <form class="d-flex form-control container" role="search" style="background-color: #eeeeee;width: 700px;">
+                    <form class="d-flex form-control container" role="search"
+                          style="background-color: #eeeeee;width: 700px;">
                     <span style="color: darkgray;height: 20px;padding-top: 5px;border-right-width: 46px;padding-right: 5px;padding-left: 7px;">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
                              class="bi bi-search" viewBox="0 0 16 16">
                         <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
                     </svg>
                     </span>
-                        <input class="form-control me-2" type="search" placeholder="Search for food, restaurant, and more.."
+                        <input class="form-control me-2" type="search"
+                               placeholder="Search for food, restaurant, and more.."
                                style="border: none"
                                aria-label="Search"
 
                         >
-                        <div class="btn-group" role="group" >
+                        <div class="btn-group" role="group">
                             <button type="button" class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown"
                                     aria-expanded="false" style="color: darkgray">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt" viewBox="0 0 16 16">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                     class="bi bi-geo-alt" viewBox="0 0 16 16">
                                     <path d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A32 32 0 0 1 8 14.58a32 32 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10"/>
                                     <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4m0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/>
                                 </svg>
@@ -128,29 +111,22 @@
 
             </div>
         </div>
-<!--        <div class="carousel-item">-->
-<!--            <img src="..." class="d-block w-100" alt="...">-->
-<!--            <div class="carousel-caption d-none d-md-block">-->
-<!--                <h5>Second slide label</h5>-->
-<!--                <p>Some representative placeholder content for the second slide.</p>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--        <div class="carousel-item">-->
-<!--            <img src="..." class="d-block w-100" alt="...">-->
-<!--            <div class="carousel-caption d-none d-md-block">-->
-<!--                <h5>Third slide label</h5>-->
-<!--                <p>Some representative placeholder content for the third slide.</p>-->
-<!--            </div>-->
-<!--        </div>-->
+        <!--        <div class="carousel-item">-->
+        <!--            <img src="..." class="d-block w-100" alt="...">-->
+        <!--            <div class="carousel-caption d-none d-md-block">-->
+        <!--                <h5>Second slide label</h5>-->
+        <!--                <p>Some representative placeholder content for the second slide.</p>-->
+        <!--            </div>-->
+        <!--        </div>-->
+        <!--        <div class="carousel-item">-->
+        <!--            <img src="..." class="d-block w-100" alt="...">-->
+        <!--            <div class="carousel-caption d-none d-md-block">-->
+        <!--                <h5>Third slide label</h5>-->
+        <!--                <p>Some representative placeholder content for the third slide.</p>-->
+        <!--            </div>-->
+        <!--        </div>-->
     </div>
-<!--    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">-->
-<!--        <span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
-<!--        <span class="visually-hidden">Previous</span>-->
-<!--    </button>-->
-<!--    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">-->
-<!--        <span class="carousel-control-next-icon" aria-hidden="true"></span>-->
-<!--        <span class="visually-hidden">Next</span>-->
-<!--    </button>-->
+
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
