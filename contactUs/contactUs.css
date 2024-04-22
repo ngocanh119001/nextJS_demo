@@ -9,16 +9,16 @@
 }
 
 .footer-item {
-  top: 254px;
-  left: 1671.9px;
-  filter: blur(150px);
-  border-radius: 50%;
-  background-color: #d2d2d2;
-  width: 478.9px;
-  height: 496.9px;
-  transform: rotate(180deg);
-  transform-origin: 0 0;
-  opacity: 0.8;
+    top: 600px;
+    left: 1641.9px;
+    filter: blur(70px);
+    border-radius: 100%;
+    background-color: #D5AEE4;
+    width: 278.9px;
+    height: 400.9px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    opacity: 0.8;
 }
 
 .koson-technology3 {
@@ -270,7 +270,7 @@
   left: 1199px;
   width: 185px;
   height: 164px;
-  font-size: 24px; /* Thay thế --font-size-5xl bằng giá trị cụ thể */
+  font-size: 24px; 
   color: #000000; /* Thay thế --text-clr bằng mã màu đen (#000000) */
   font-family: 'Poppins', sans-serif; /* Thay thế --font-poppins bằng font-family cụ thể */
 }
@@ -281,7 +281,7 @@
   left: 1px;
   width: 1671.9px;
   height: 750.9px;
-  font-size: 12px; /* Thay thế --font-size-sm bằng giá trị cụ thể */
+  font-size: 12px;
 }
 
 .dbe-7c0a-4747-8ab8-fce5031ac30-icon3 {
@@ -408,8 +408,8 @@
   border-radius: 10px;
   width: 1338px;
   height: 812px;
+  left: 20px;
 }
-
 .contact-us3 {
   position: absolute;
   top: 0;   
@@ -727,9 +727,7 @@
 }
 footer {
   position: absolute;
-  padding-bottom: 0;
   width: 100%;
-  margin-top: 100px;
   background: linear-gradient(to bottom, transparent, rgb(240, 210, 240));
   z-index: -1;
 }
@@ -750,5 +748,20 @@ footer {
     resize: vertical;
   }
   .contact-form button:hover {
-    background-color: #0056b3;
+    background-color: #8a2be2;
   }
+a, .faqhelp1, .privacy-policy1,
+.terms-of-use1, .blog1,
+.about-us3, .bookmark1, .featured-locations1,
+.link-travel2, .link-travel3, .link-pages1,.link-blog1,.contact1{
+  display: inline-block;
+  color: #000;
+  text-decoration: none !important;
+}
+a:hover,
+.faqhelp1:hover, .privacy-policy1:hover,
+.terms-of-use1:hover, .blog1:hover,
+.about-us3:hover, .bookmark1:hover, .featured-locations1:hover,
+.link-travel2:hover, .link-travel3:hover, .link-pages1:hover,.link-blog1:hover,.contact1:hover{
+  color: #8a2be2;
+}
