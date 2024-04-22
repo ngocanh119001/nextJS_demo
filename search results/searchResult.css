@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    margin-top: 3%;
+}
+
+ #map {
+     height: 400px; /* Đặt chiều cao của bản đồ */
+     width: 100%; /* Đặt chiều rộng của bản đồ */
+ }
+.hr-qc {
+    border: 2px solid #75356A; /* Set border style and color */
+    width: 10%; /* Adjust width as needed */
+    margin: 2% auto; /* Add margins for spacing */
+
+}
+.row-qc {
+    display: flex; /* Make the row a Flexbox container */
+    flex-wrap: wrap; /* Allow elements to wrap onto multiple lines */
+}
+img{
+    border-radius: 5px;
+}
